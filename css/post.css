@@ -1,0 +1,13 @@
+#signin-content {
+	display:none;
+}
+
+#signin-prompt {
+	text-align:center;
+	font-weight:bold;
+	font-size:18pt;
+}
+
+#bold-text {
+	font-weight:bold;
+}
